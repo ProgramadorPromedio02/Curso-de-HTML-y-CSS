@@ -1,0 +1,80 @@
+h2 {
+  color: #808;
+  font-size: 30px;
+  font-family: "Ephesis", cursive;
+}
+
+h3 {
+  color: #808;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  font-family: "Gemunu Libre", sans-serif;
+}
+
+img {
+  border-radius: 50%;
+  border-width: 3px;
+  border-color: #f0f;
+  border-style: solid;
+}
+
+[type="radio"] {
+  margin: 5px;
+}
+
+[type="checkbox"] {
+  margin: 8px;
+}
+
+a[href="https://www.freecodecamp.org/espanol/"]
+{
+  color: #a730e3;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/*
+#imagen-de-gatos {
+  margin: 25px;
+  padding: 25px;
+  background-color: yellow;
+  border-width: 4px;
+  border-color: orange;
+  border-style: solid;
+}
+*/
+
+#aman {
+  color: rgb(0, 255, 0);
+}
+
+#lista-gatos-aman {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 255, 0);
+}
+
+#odian {
+  color: rgb(255, 0, 0);
+}
+
+#lista-gatos-odian {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+body {
+  background: linear-gradient(#0000ff, #800080);
+}
+
+form,
+footer,
+p {
+  color: white;
+}
+
+
